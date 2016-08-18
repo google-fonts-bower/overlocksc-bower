@@ -1,0 +1,17 @@
+{
+    "name": "overlocksc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dario Manuel Muhafara"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/overlocksc-bower.git"
+    },
+    "description": "Overlock SC font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
